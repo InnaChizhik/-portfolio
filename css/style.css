@@ -17,7 +17,7 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 .wrapper {
-    max-width: 1445px;
+    max-width: 100%;
     background-color:#FFFFFF;
 
 }
@@ -95,6 +95,7 @@ body {
     font-size: 18px;
     color: #070707;
     font-weight: 600;
+    transform: rotate(-90deg);
 }
 .denis {
     margin-top: 30.64px;
@@ -203,3 +204,12 @@ input {
     padding-bottom: 123.19px;
    
 }
+a {
+    color:#828282;
+    text-decoration:none
+    
+    }
+    a:hover {
+        color:#000000;
+        
+        } 
